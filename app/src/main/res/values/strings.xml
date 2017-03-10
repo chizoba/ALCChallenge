@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ALC Challenge</string>
+    <string name="error_message">Failed to get results. Please try again.</string>
+</resources>
